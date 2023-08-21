@@ -1,4 +1,6 @@
 //Approach - 1
+//Time Complexity: O(n!*n)
+//Space complexity: O(n) + O(n) + O(n)
 class Solution {
 public:
     vector<vector<int>> ans;
